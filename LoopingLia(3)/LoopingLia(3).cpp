@@ -12,6 +12,11 @@ void inputdata() {
 
 }
 
+int hitungluas() {
+	return panjang * lebar;
+
+}
+
 
 
 	
