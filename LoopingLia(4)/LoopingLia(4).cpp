@@ -11,4 +11,7 @@ void inputdata() {
     
 }
 
+int hitungluas() {
+    return sisi * sisi;
+}
 
