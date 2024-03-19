@@ -18,3 +18,9 @@ int hitungluas() {
 void display() {
     cout << "Luas Persegi :" << hitungluas() << endl;
 }
+
+int main()
+{
+    inputdata();
+    display();
+}
