@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopingLia(2)", "LoopingLia
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopingLia(3)", "LoopingLia(3)\LoopingLia(3).vcxproj", "{6D2C1FA3-89DE-48C9-A3ED-F308C8C34D8A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopingLia(4)", "LoopingLia(4)\LoopingLia(4).vcxproj", "{7373EE33-7EEF-435F-9B81-381B8D6A18BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{6D2C1FA3-89DE-48C9-A3ED-F308C8C34D8A}.Release|x64.Build.0 = Release|x64
 		{6D2C1FA3-89DE-48C9-A3ED-F308C8C34D8A}.Release|x86.ActiveCfg = Release|Win32
 		{6D2C1FA3-89DE-48C9-A3ED-F308C8C34D8A}.Release|x86.Build.0 = Release|Win32
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Debug|x64.ActiveCfg = Debug|x64
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Debug|x64.Build.0 = Debug|x64
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Debug|x86.Build.0 = Debug|Win32
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Release|x64.ActiveCfg = Release|x64
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Release|x64.Build.0 = Release|x64
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Release|x86.ActiveCfg = Release|Win32
+		{7373EE33-7EEF-435F-9B81-381B8D6A18BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
